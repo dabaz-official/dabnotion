@@ -10,11 +10,10 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'DabNotion by DabAZ',
   },
+  i18n: [
+    { locale: 'en-US', text: 'English' },
+    { locale: 'zh-CN', text: '中文' },
+  ]
 }
-
-i18n: [
-  { locale: 'en-US', text: 'English' },
-  { locale: 'zh-CN', text: '中文' },
-]
 
 export default config

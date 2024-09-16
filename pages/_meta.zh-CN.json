@@ -1,15 +1,14 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
+  "index": "简介",
   "advanced": "Advanced (A Folder)",
   "about": {
-    "title": "About",
+    "title": "关于",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://dabaz.me",
     "newWindow": true
   }
 }
