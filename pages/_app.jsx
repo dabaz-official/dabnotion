@@ -2,7 +2,10 @@ import { Inter } from 'next/font/google';
 
 import './tailwind.css';
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({
+  subsets: ['latin'],
+  variable: '--font-inter',
+})
  
 export default function App({ Component, pageProps }) {
   return (
