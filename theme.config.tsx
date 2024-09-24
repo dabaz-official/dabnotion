@@ -6,14 +6,10 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/dabaz-official/dabnotion',
   },
-  docsRepositoryBase: 'dabaz-official/dabnotion',
+  docsRepositoryBase: 'https://github.com/dabaz-official/dabnotion',
   footer: {
     text: 'DabNotion by DabAZ',
   },
-  i18n: [
-    { locale: 'en-US', text: 'English' },
-    { locale: 'zh-CN', text: '中文' },
-  ]
 }
 
 export default config
